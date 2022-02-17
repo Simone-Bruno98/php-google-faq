@@ -1,0 +1,63 @@
+body{
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.headercontainer{
+    height: 80px;
+    background-color: white; 
+    border-bottom: 1px solid black ;
+}
+.headercontainer img{
+    height: 23px;
+    vertical-align: center;
+}
+.logoandprofile{
+    height: 50px;
+    line-height: 50px;
+    padding: 0px 20px;
+}
+.privacy{
+    color: black;
+    font-size: 20px;
+}
+.profileimage{
+    font-size: 20px;
+    color: white;
+    border-radius: 50%;
+    background-color: gray;
+    padding: 5px 15px;
+    vertical-align: center;
+}
+.headerright{
+    text-align: right;
+    vertical-align: center;
+}
+i{
+    color: black;
+    width: 20px;
+    height: 20px;
+}
+.nav{
+    height: 30px;
+    line-height: 30px;
+    font-size: 13px;
+    color: black;
+
+}
+.nav ul{
+    list-style-type: none;
+    display: flex;
+}
+.nav ul li{
+    padding-right: 38px;
+}
+.maintext{
+    padding: 0px 200px;
+}
+.domanda{
+    padding-top: 50px;
+}
+.risposta{
+    padding-top: 10px;
+    font-size: 13px;
+}
